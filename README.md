@@ -1,4 +1,4 @@
-# AFW 2025 Scraper
+# ASW 2025 Scraper
 
 ## Overview
 The **AFW 2025 Scraper** is a Python-based web scraping project that extracts and processes event and lead data from the Affiliate Summit West 2025 event platform. The project consists of multiple scripts that scrape event attendees, event metadata, and lead information, then store the extracted data in structured CSV files.
